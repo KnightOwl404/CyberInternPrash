@@ -1,0 +1,85 @@
+Task 1
+ What is GitHub?
+GitHub is a cloud-based platform that helps developers manage and collaborate on code using Git, a distributed version control system. It allows multiple developers to work on projects simultaneously without interfering with each other’s changes.
+
+🔑 Key GitHub Concepts
+Repository (Repo): A storage space for your project, including code, files, and history.
+
+
+Commit: A snapshot of changes made to files.
+
+
+Branch: A separate version of the code for developing features independently.
+
+
+Merge: Combines code from different branches.
+
+
+Pull Request (PR): A request to merge code changes, typically reviewed by others.
+
+
+Fork: A personal copy of someone else’s repository to experiment with.
+
+
+Clone: Copies a repository from GitHub to your local computer.
+
+
+Push: Sends your local changes to the GitHub server.
+
+
+Pull: Downloads the latest changes from GitHub to your local machine.
+
+
+
+🔧 Basic Git Commands
+git init             # Start a new Git repository
+git clone <url>      # Download a repository from GitHub
+git status           # Check the current state of your repository
+git add <file>       # Stage a file for commit
+git commit -m "msg"  # Save your staged changes with a message
+git push             # Send committed changes to GitHub
+git pull             # Get the latest changes from GitHub
+
+
+🖥️ Part 2: Basic Linux Commands
+Linux is an open-source operating system commonly used in software development. Knowing basic Linux commands is essential for navigating and managing files through the terminal.
+
+📂 File and Directory Commands
+pwd            # Show current directory
+ls             # List files and folders
+cd <dir>       # Change to another directory
+mkdir <name>   # Create a new directory
+touch <file>   # Create a new empty file
+cp <src> <dst> # Copy a file or folder
+mv <src> <dst> # Move or rename files
+rm <file>      # Delete a file
+rmdir <dir>    # Delete an empty directory
+
+
+📄 Viewing and Editing Files
+cat <file>     # View file contents
+less <file>    # Scroll through file contents
+nano <file>    # Open a file for editing using Nano editor
+
+
+⚙️ System and Process Management
+top            # Display real-time system processes
+ps             # Show running processes
+kill <pid>     # Terminate a process using its PID
+
+
+🔎 Helpful Tools
+
+man <command>  # Display manual/help for a command
+history        # Show previously used commands
+clear          # Clear the terminal screen
+
+
+ Summary
+GitHub is a collaborative platform that uses Git to manage version control.
+
+
+Linux commands allow efficient file and system management via the terminal.
+
+
+Understanding both tools is essential for developers and system administrators.
