@@ -1,0 +1,12 @@
+# Assignment 6 - Proof of Concept (POC)
+
+This repository contains my research, experimentation, and POC developed using the allotted security tools.
+
+## 🛠 Tools Used
+- Tool 1: Hex2dec - A command-line tool for converting hexadecimal to decimal (and vice versa), often used in memory and binary analysis.
+- Tool 2: NotMyFault - A Sysinternals tool used to deliberately crash systems or trigger system faults, helpful for testing crash dump analysis and Blue Screen debugging procedures.
+
+## 📌 Objective
+To study and demonstrate real-world malware analysis and memory investigation concepts such as:
+- Converting hex values from memory dumps
+- Generating and analyzing system crash dumps using deliberate faults
