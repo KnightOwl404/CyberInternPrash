@@ -1,19 +1,19 @@
-# Digital Forensics & OSINT Learning Repository
 
-A personal learning journal and notes repository while exploring the world of Digital Forensics and Open-Source Intelligence (OSINT).
+# Malware Analysis Tools
 
-## 📂 Topics Covered
-- 🧪 Digital Forensics
-  - Memory & Disk Analysis
-  - Autopsy Labs
-  - Volatility Plugins
-- 🌐 OSINT
-  - Username/Email/DNS investigation
-  - Social Media footprinting
-  - Passive Recon using tools
+## 🧊 Static Analysis
+- PEStudio
+- Ghidra
+- IDA Free
+- VirusTotal
+- Strings (Sysinternals)
 
-## 📚 Resources
-See `/resources/` for recommended books, courses, CTFs, and challenges.
+## 🔥 Dynamic Analysis
+- Process Monitor
+- ProcExp
+- Wireshark
+- Any.Run / CAPE Sandbox
 
-## ✅ Goal
-- Build a strong foundation in both Blue Team defensive forensics and OSINT investigation workflows.
+## 🧠 Reverse Engineering
+- x64dbg
+- Cutter (Radare2 frontend)
